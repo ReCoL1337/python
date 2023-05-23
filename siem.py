@@ -1,1 +1,1 @@
-printf ("siem")
+print("siem")
