@@ -1,3 +1,3 @@
 print("siem")
 print("another one")
-print("okii")
+print("oki")
