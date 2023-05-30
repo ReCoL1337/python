@@ -1,4 +1,4 @@
 print("siem")
 print("another one")
-print("oki")
+print("ok")
 print("meow")
